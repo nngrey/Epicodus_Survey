@@ -1,6 +1,7 @@
 require 'active_record'
 require 'rspec'
 require 'shoulda-matchers'
+require 'pry'
 
 require './lib/survey.rb'
 require './lib/question.rb'
