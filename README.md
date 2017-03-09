@@ -1,4 +1,4 @@
-Epicodus exercise using Ruby and Active Records
+#Epicodus exercise using Ruby and Active Records
 
 Survey
 
